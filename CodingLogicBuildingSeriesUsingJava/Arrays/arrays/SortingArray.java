@@ -24,12 +24,17 @@ public class SortingArray {
 		int[] newArray = array.clone();
 		int temp;
 		for(int i = 0; i < n-1; i++) {
+			int flag = 0;
 			for(int j = 0; j < n-1-i; j++) {
 				if(newArray[j] > newArray[j+1]) {
 					temp = newArray[j];
 					newArray[j] = newArray[j+1];
 					newArray[j+1] = temp;
+					flag = 1;
 				}
+			}
+			if(flag == 0) {
+				break;
 			}
 		}
 		
