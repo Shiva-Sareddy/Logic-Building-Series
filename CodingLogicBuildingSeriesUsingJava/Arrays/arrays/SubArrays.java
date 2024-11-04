@@ -24,7 +24,7 @@ public class SubArrays {
 			for(int j = i; j < n; j++) {
 				for(int k = i; k <= j; k++) {
 					System.out.print(array[k]);
-					if (k < j) { // Only print a space if not the last element
+					if (k < j) { // Only print a comma if not the last element
                         System.out.print(", ");
                     }
 				}
