@@ -55,22 +55,22 @@ public class SortingArray {
 		
 		
 		//Sorting using built in methods:
-				// Ascending order:
-				Arrays.sort(array);
-				
-				// Printing the sorted array that used built in methods using for each loop
-				System.out.print("Sorted using built in (ascending order): ");
-				for(int element1: array) {
-					System.out.print(element1 + " ");
-				}
-				System.out.println();
-				
-				// Printing the array in descending order (manually) as there is no built in method in arrays to descending order
-				System.out.print("Sorted using built in (descending order): ");
-				for(int i = n-1; i >= 0; i--) {
-					System.out.print(array[i] + " ");
-				}
-				System.out.println();
+		// Ascending order:
+		Arrays.sort(array);
+		
+		// Printing the sorted array that used built in methods using for each loop
+		System.out.print("Sorted using built in (ascending order): ");
+		for(int element1: array) {
+			System.out.print(element1 + " ");
+		}
+		System.out.println();
+		
+		// Printing the array in descending order (manually) as there is no built in method in arrays to descending order
+		System.out.print("Sorted using built in (descending order): ");
+		for(int i = n-1; i >= 0; i--) {
+			System.out.print(array[i] + " ");
+		}
+		System.out.println();
 
 	}
 
