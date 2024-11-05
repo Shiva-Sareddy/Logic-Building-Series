@@ -15,7 +15,7 @@ As I progress, I’ll add the resources that have helped me along the way:
 | S.No | Purpose                        | Description                                | Link                                                                                       | Rating |  
 |------|--------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------|--------|
 | 1    | Logic Building in Programming  | A video guide on how to approach logic building in coding | [Watch Here](https://youtu.be/tv_9doDQJU0?si=dqRpQPNdWIFIjLns)                              | ⭐⭐⭐⭐⭐  |
-| 2    | Purpose 2                      | Description 2                              | [Link 2](#)                                                                                 | ⭐⭐⭐⭐   |
+| 2    | Sorting Arrays                     | Sorting the array using the simplest sorting technique- Bubble Sort                             | [Link 2](#)                                                                                 | ⭐⭐⭐⭐   |
 | 3    | Purpose 3                      | Description 3                              | [Link 3](#)                                                                                 | ⭐⭐⭐⭐   |
 | 4    | Purpose 4                      | Description 4                              | [Link 4](#)                                                                                 | ⭐⭐⭐    |
 | 5    | Purpose 5                      | Description 5                              | [Link 5](#)                                                                                 | ⭐⭐⭐    |
