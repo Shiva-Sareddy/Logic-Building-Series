@@ -16,7 +16,7 @@ As I progress, I’ll add the resources that have helped me along the way:
 |------|--------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------|--------|
 | 1    | Logic Building in Programming  | A video guide on how to approach logic building in coding | [Watch Here](https://youtu.be/tv_9doDQJU0?si=dqRpQPNdWIFIjLns)                              | ⭐⭐⭐⭐⭐  |
 | 2    | Sorting Arrays                     | Sorting the array using the simplest sorting technique- Bubble Sort                             | [Watch here](https://youtu.be/o4bAoo_gFBU?si=6evIT-tAfiBWKIpU)                                                                                 | ⭐⭐⭐⭐   |
-| 3    | Purpose 3                      | Description 3                              | [Link 3](#)                                                                                 | ⭐⭐⭐⭐   |
+| 3    | DSA Prepinsta                      | DSA Resource 01                              | [Check out](https://prepinsta.com/data-structures/)                                                                                 | ⭐⭐⭐⭐   |
 | 4    | Purpose 4                      | Description 4                              | [Link 4](#)                                                                                 | ⭐⭐⭐    |
 | 5    | Purpose 5                      | Description 5                              | [Link 5](#)                                                                                 | ⭐⭐⭐    |
 | 6    | Purpose 6                      | Description 6                              | [Link 6](#)                                                                                 | ⭐⭐⭐    |
